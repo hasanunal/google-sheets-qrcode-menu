@@ -39,6 +39,9 @@ We assign it to the relevant variable.
 
 Next, let's complete our script code.
 
+### Screenshot 
+![QR Code Menü Google Sheets](https://hasanunal.github.io/google-sheets-qrcode-menu/screenshot.png)
+
 ### Bonus: Publishing
 If you don't have hosting and want to publish quickly, you can use one of the following services:
 
