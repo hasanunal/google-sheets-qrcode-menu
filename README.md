@@ -37,8 +37,6 @@ const id = 'id';
 
 We assign it to the relevant variable.
 
-Next, let's complete our script code.
-
 ### Screenshot 
 ![QR Code Menü Google Sheets](https://hasanunal.github.io/google-sheets-qrcode-menu/screenshot.png?v=1)
 
